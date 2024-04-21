@@ -8,3 +8,8 @@ consists about 176 images which are used to train the model <br>
 # test_move 
 consists about 10 images which are used to testify the model <br>
 Here we are not following the seggregation rules <br>
+## Steps to run :
+  1. Install pandas, numpy and cv to your python environment
+  2. Run Preprocessing_Data.ipynb to generate a training set named as train_176_images.csv
+  3. Run the BinaryClassification.ipynb to train the module
+  You can save the parameters and can use them in your projects.
