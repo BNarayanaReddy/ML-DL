@@ -1,5 +1,5 @@
 # ML-DL
-Here, I post tiny projects related to the field of Machine Learning and Deep Learning <br>
+Projects on Machine Learning <br>
 # 01
   <b> Image Classification </b>
 - Performed image classification to automatically identify different species of butterflies.
